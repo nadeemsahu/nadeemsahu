@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Nadeem+Sahu;C%2C+C%2B%2B%2C+Python+%26+Rust+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Nadeem%20Sahu&fontSize=80&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20Systems%20Enthusiast&descAlignY=60&descSize=25" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Expertise+in+C,+C%2B%2B,+Python,+and+Rust;Passionate+about+Low-Level+Programming;Building+High-Performance+Systems" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,21 +14,16 @@
 - 🌱 I’m currently learning **advanced Rust concepts and performance optimization.**
 - 👯 I’m looking to collaborate on **Open Source projects, especially in C, C++, Python, or Rust.**
 - 💬 Ask me about **C, C++, Python, and Rust.**
-- ⚡ Fun fact: **I love writing clean and efficient code!**
+- ⚡ Fun fact: **I love writing clean, memory-efficient code!**
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,git,linux,docker,vscode,bash&theme=dark&perline=9" alt="Skills" />
+  </a>
 </div>
 
 ---
@@ -54,5 +53,5 @@
 ---
 
 <div align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" alt="Footer" />
 </div>
