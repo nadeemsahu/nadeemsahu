@@ -1,0 +1,36 @@
+name: Generate Mining Graph
+
+on:
+  schedule:
+    # Run every 12 hours
+    - cron: "0 */12 * * *"
+  # Allow manual trigger
+  workflow_dispatch:
+  # Run on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate Mining Graph SVG
+        run: python generate_miner.py
+
+      - name: Commit and Push SVG
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add mining_graph.svg
+          git commit -m "chore: Update automated mining graph" || exit 0
+          git push
