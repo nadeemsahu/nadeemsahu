@@ -143,10 +143,10 @@ def build_miner_svg():
     </g>
 </svg>'''
 
-    with open('mining_graph.svg', 'w', encoding='utf-8') as f:
+    with open('contribution_miner.svg', 'w', encoding='utf-8') as f:
         f.write(new_svg)
         
-    print("Successfully generated super awesome CSS-animated mining_graph.svg!")
+    print("Successfully generated super awesome CSS-animated contribution_miner.svg!")
 
 if __name__ == "__main__":
     build_miner_svg()

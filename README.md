@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-  <img src="mining_graph.svg" alt="Nadeem's Custom Mining Graph" width="100%" />
+  <img src="contribution_miner.svg" alt="Nadeem's Custom Mining Graph" width="100%" />
 </div>
 
 ---
