@@ -47,12 +47,16 @@
 
 ---
 
-### 🏆 Trophies
+### 📈 Commits & Activity
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nadeemsahu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Nadeem's GitHub Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" width="45" alt="Cute Cat" />
+  <img src="https://media.tenor.com/E13eH7Pj5a8AAAAi/cat-typing.gif" width="120" alt="Cute Character Mining Code" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="45" alt="Cute Alien" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemsahu&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nadeem's Contribution Graph" width="100%" />
 </div>
 
 ---
