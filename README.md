@@ -50,13 +50,29 @@
 ### 📈 Commits & Activity
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemsahu&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nadeem's Contribution Graph" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" width="45" alt="Cute Cat" />
-  <b>Mining your commits!</b>
+  <b>Commits being consumed & mined!</b>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="45" alt="Cute Alien" />
 </div>
 
 <div align="center">
-  <img src="./mining_graph.svg" alt="Nadeem's Contribution Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadeemsahu/nadeemsahun/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadeemsahu/nadeemsahun/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nadeemsahu/nadeemsahun/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./mining_graph.svg" alt="Nadeem's Custom Mining Graph" width="100%" />
 </div>
 
 ---
