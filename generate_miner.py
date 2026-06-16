@@ -99,15 +99,19 @@ def build_miner_svg():
         }}
         @keyframes swingAxe {{
             0%, 100% {{ transform: rotate(0deg) translate(0, 0); }}
-            50% {{ transform: rotate(-40deg) translate(-2px, 5px); }}
+            40% {{ transform: rotate(15deg) translate(2px, -2px); }}
+            50% {{ transform: rotate(-45deg) translate(-3px, 6px); }}
+            60% {{ transform: rotate(0deg) translate(0, 0); }}
         }}
         .axe {{
-            animation: swingAxe 1.5s ease-in-out infinite;
+            animation: swingAxe 3s linear infinite;
             transform-origin: 18px 10px;
         }}
         @keyframes boinkFade {{
-            0%, 100% {{ opacity: 0; transform: translateY(0); }}
-            50% {{ opacity: 1; transform: translateY(-8px); }}
+            0%, 49% {{ opacity: 0; transform: translateY(0); }}
+            50% {{ opacity: 1; transform: translateY(-5px); }}
+            65% {{ opacity: 0; transform: translateY(-15px); }}
+            100% {{ opacity: 0; transform: translateY(0); }}
         }}
         .boink {{
             font-family: 'Segoe UI', Arial, sans-serif;
@@ -116,7 +120,7 @@ def build_miner_svg():
             fill: #ffaa00;
             text-shadow: none;
             opacity: 0;
-            animation: boinkFade 1.5s ease-in-out infinite;
+            animation: boinkFade 3s linear infinite;
         }}
         .title-text {{
             font-family: 'Segoe UI', Arial, sans-serif;
