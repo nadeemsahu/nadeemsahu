@@ -97,6 +97,27 @@ def build_miner_svg():
             font-size: 18px;
             text-shadow: 0 0 5px rgba(0,255,0,0.5);
         }}
+        @keyframes swingAxe {{
+            0%, 100% {{ transform: rotate(0deg) translate(0, 0); }}
+            50% {{ transform: rotate(-40deg) translate(-2px, 5px); }}
+        }}
+        .axe {{
+            animation: swingAxe 0.5s ease-in-out infinite;
+            transform-origin: center center;
+        }}
+        @keyframes boinkFade {{
+            0%, 100% {{ opacity: 0; transform: translateY(0) scale(0.8); }}
+            50% {{ opacity: 1; transform: translateY(-8px) scale(1.1); }}
+        }}
+        .boink {{
+            font-family: 'Segoe UI', Arial, sans-serif;
+            font-size: 10px;
+            font-weight: bold;
+            fill: #ffaa00;
+            text-shadow: none;
+            opacity: 0;
+            animation: boinkFade 0.5s ease-in-out infinite;
+        }}
         .title-text {{
             font-family: 'Segoe UI', Arial, sans-serif;
             font-size: 16px;
@@ -115,7 +136,11 @@ def build_miner_svg():
     """
     
     miner_svg = f'''
-        <text class="miner-char" x="0" y="10">🦊⛏️</text>
+        <g class="miner-char">
+            <text x="0" y="10">🦊</text>
+            <text class="axe" x="18" y="10">⛏️</text>
+            <text class="boink" x="15" y="-5">boink!</text>
+        </g>
     '''
     
     inner_content = re.sub(r'<svg[^>]*>', '', svg_data)
