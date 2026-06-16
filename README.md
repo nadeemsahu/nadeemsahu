@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-  <img src="./mining_graph.svg?v=3" alt="Nadeem's Custom Mining Graph" width="100%" />
+  <img src="https://github.com/nadeemsahu/nadeemsahun/raw/main/mining_graph.svg?sanitize=true&v=5" alt="Nadeem's Custom Mining Graph" width="100%" />
 </div>
 
 ---
