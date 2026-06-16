@@ -121,6 +121,10 @@ def build_miner_svg():
     inner_content = re.sub(r'<svg[^>]*>', '', svg_data)
     inner_content = inner_content.replace('</svg>', '')
     
+    # CRITICAL FIX: Remove XML declaration and DOCTYPE from inner content
+    inner_content = re.sub(r'<\?xml[^>]*\?>', '', inner_content)
+    inner_content = re.sub(r'<!DOCTYPE[^>]*>', '', inner_content)
+    
     inner_content = inner_content.replace('fill:#767676', 'fill:#8B949E')
     
     new_svg = f'''<?xml version="1.0" standalone="no"?>
