@@ -9,7 +9,7 @@
 <br>
 
 <h4 align="center">👨‍💻 About Me</h4>
-<p align="center"><img width="2000" height="0"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="2000" height="1"></p>
 
 > 🔭 I’m currently working on **expanding my skills in software development and systems design.**<br>
 > 🌱 I’m currently learning **advanced Rust concepts and performance optimization.**<br>
@@ -20,7 +20,7 @@
 <br>
 
 <h4 align="center">🛠️ Languages & Tools</h4>
-<p align="center"><img width="2000" height="0"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="2000" height="1"></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -36,7 +36,7 @@
 <br>
 
 <h4 align="center">📊 GitHub Stats</h4>
-<p align="center"><img width="2000" height="0"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="2000" height="1"></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nadeemsahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=8B949E" alt="Nadeem's GitHub stats" width="42%" />
@@ -50,7 +50,7 @@
 <br>
 
 <h4 align="center">📈 Commits & Activity</h4>
-<p align="center"><img width="2000" height="0"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="2000" height="1"></p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemsahu&theme=tokyonight&hide_border=true&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF" alt="Nadeem's Contribution Graph" width="80%" />
