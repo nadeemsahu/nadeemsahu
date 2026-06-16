@@ -38,7 +38,6 @@
         .axe {
             animation: swingAxe 0.5s ease-in-out infinite;
             transform-origin: 18px 10px;
-            transform-box: fill-box;
         }
         @keyframes boinkFade {
             0%, 100% { opacity: 0; transform: translateY(0); }
@@ -292,8 +291,8 @@
         
         <g class="miner-char">
             <text x="0" y="10">🦊</text>
-            <text class="axe" x="18" y="10">⛏️</text>
-            <text class="boink" x="15" y="-5">boink!</text>
+            <g class="axe"><text x="18" y="10">⛏️</text></g>
+            <g class="boink"><text x="15" y="-5">boink!</text></g>
         </g>
     
     </g>
