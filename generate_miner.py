@@ -102,7 +102,7 @@ def build_miner_svg():
             50% {{ transform: rotate(-40deg) translate(-2px, 5px); }}
         }}
         .axe {{
-            animation: swingAxe 0.5s ease-in-out infinite;
+            animation: swingAxe 1.5s ease-in-out infinite;
             transform-origin: 18px 10px;
         }}
         @keyframes boinkFade {{
@@ -116,7 +116,7 @@ def build_miner_svg():
             fill: #ffaa00;
             text-shadow: none;
             opacity: 0;
-            animation: boinkFade 0.5s ease-in-out infinite;
+            animation: boinkFade 1.5s ease-in-out infinite;
         }}
         .title-text {{
             font-family: 'Segoe UI', Arial, sans-serif;
