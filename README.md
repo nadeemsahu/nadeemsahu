@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=39d353&center=true&vCenter=true&width=600&lines=Expertise+in+C,+C%2B%2B,+Python,+and+Rust;Passionate+about+Low-Level+Programming;Building+High-Performance+Systems" alt="Typing SVG" />
 </div>
 
-<br>
+---
 
 <h4 align="center">👨‍💻 About Me</h4>
 
@@ -17,7 +17,7 @@
 > 💬 Ask me about **C, C++, Python, and Rust.**<br>
 > ⚡ Fun fact: **I love writing clean, memory-efficient code!**
 
-<br>
+---
 
 <h4 align="center">🛠️ Languages & Tools</h4>
 
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </div>
 
-<br>
+---
 
 <h4 align="center">📊 GitHub Stats</h4>
 
@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39d353&text_color=8B949E" alt="Top Langs" width="40%" />
 </div>
 
-<br>
+---
 
 <h4 align="center">📈 Commits & Activity</h4>
 
