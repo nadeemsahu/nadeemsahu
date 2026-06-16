@@ -103,11 +103,12 @@ def build_miner_svg():
         }}
         .axe {{
             animation: swingAxe 0.5s ease-in-out infinite;
-            transform-origin: center center;
+            transform-origin: 18px 10px;
+            transform-box: fill-box;
         }}
         @keyframes boinkFade {{
-            0%, 100% {{ opacity: 0; transform: translateY(0) scale(0.8); }}
-            50% {{ opacity: 1; transform: translateY(-8px) scale(1.1); }}
+            0%, 100% {{ opacity: 0; transform: translateY(0); }}
+            50% {{ opacity: 1; transform: translateY(-8px); }}
         }}
         .boink {{
             font-family: 'Segoe UI', Arial, sans-serif;
