@@ -108,8 +108,8 @@ def build_miner_svg():
         @keyframes boinkFade {{
             0%, 49.9% {{ opacity: 0; transform: translateY(0) scale(0.5); }}
             50% {{ opacity: 1; transform: translateY(-2px) scale(1.4); }}
-            55% {{ opacity: 1; transform: translateY(-8px) scale(1); }}
-            75% {{ opacity: 0; transform: translateY(-20px) scale(0.8); }}
+            60% {{ opacity: 1; transform: translateY(-10px) scale(1); }}
+            95% {{ opacity: 0; transform: translateY(-25px) scale(0.8); }}
             100% {{ opacity: 0; transform: translateY(0) scale(0.5); }}
         }}
         .boink {{
