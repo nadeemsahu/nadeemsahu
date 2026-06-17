@@ -163,7 +163,7 @@ def build_miner_svg():
                 <rect x="-9" y="6" width="4" height="6" fill="#00a8a8"/>
                 <rect x="-9" y="12" width="4" height="4" fill="#dca982"/>
                 <!-- Pickaxe Emoji (Flipped to face right) -->
-                <text x="9" y="18" font-size="16" transform="scale(-1, 1)">⛏️</text>
+                <text x="-7" y="18" font-size="16" transform="scale(-1, 1)">⛏️</text>
             </g>
             
             <g class="boink"><text x="5" y="-5">boink!</text></g>
