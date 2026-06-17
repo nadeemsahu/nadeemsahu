@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add contribution_miner.svg
+          git add animated_miner.svg
           git commit -m "chore: Update automated mining graph" || exit 0
           git push

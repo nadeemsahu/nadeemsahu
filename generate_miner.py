@@ -162,8 +162,13 @@ def build_miner_svg():
                 <!-- Steve Front Arm -->
                 <rect x="-9" y="6" width="4" height="6" fill="#00a8a8"/>
                 <rect x="-9" y="12" width="4" height="4" fill="#dca982"/>
-                <!-- Pickaxe Emoji -->
-                <text x="-10" y="17" font-size="16">⛏️</text>
+                <!-- Custom Pixel Pickaxe -->
+                <g class="pickaxe" transform="translate(-7, 14) rotate(45)">
+                    <rect x="-1" y="-14" width="2" height="14" fill="#8B4513"/> <!-- Handle -->
+                    <rect x="-6" y="-14" width="12" height="2" fill="#A9A9A9"/> <!-- Blade top -->
+                    <rect x="-6" y="-12" width="2" height="2" fill="#A9A9A9"/> <!-- Blade left tip -->
+                    <rect x="4" y="-12" width="2" height="2" fill="#A9A9A9"/> <!-- Blade right tip -->
+                </g>
             </g>
             
             <g class="boink"><text x="5" y="-5">boink!</text></g>
@@ -195,10 +200,10 @@ def build_miner_svg():
     </g>
 </svg>'''
 
-    with open('contribution_miner.svg', 'w', encoding='utf-8') as f:
+    with open('animated_miner.svg', 'w', encoding='utf-8') as f:
         f.write(new_svg)
         
-    print("Successfully generated super awesome CSS-animated contribution_miner.svg!")
+    print("Successfully generated super awesome CSS-animated animated_miner.svg!")
 
 if __name__ == "__main__":
     build_miner_svg()
