@@ -94,16 +94,16 @@ def build_miner_svg():
             text-shadow: 0 0 5px rgba(0,255,0,0.5);
         }}
         @keyframes swingAxe {{
-            0%, 100% {{ transform: rotate(0deg) translate(0, 0); }}
-            35% {{ transform: rotate(25deg) translate(2px, -2px); }}
-            48% {{ transform: rotate(30deg) translate(2px, -2px); }}
-            50% {{ transform: rotate(-50deg) translate(-4px, 8px); }}
-            53% {{ transform: rotate(-35deg) translate(-2px, 5px); }}
-            75% {{ transform: rotate(0deg) translate(0, 0); }}
+            0%, 100% {{ transform: rotate(0deg); }}
+            35% {{ transform: rotate(45deg); }}
+            48% {{ transform: rotate(50deg); }}
+            50% {{ transform: rotate(-40deg); }}
+            53% {{ transform: rotate(-25deg); }}
+            75% {{ transform: rotate(0deg); }}
         }}
         .axe {{
             animation: swingAxe {time_per_block}s linear infinite;
-            transform-origin: 0px 10px;
+            transform-origin: -9px 8px;
         }}
         @keyframes boinkFade {{
             0%, 49.9% {{ opacity: 0; transform: translateY(0) scale(0.5); }}
@@ -141,8 +141,32 @@ def build_miner_svg():
     
     miner_svg = f'''
         <g class="miner-char">
-            <g class="axe"><text x="0" y="10">⛏️</text></g>
-            <g class="boink"><text x="-10" y="-5">boink!</text></g>
+            <!-- Steve Back Arm & Leg -->
+            <rect x="-13" y="14" width="4" height="6" fill="#242485"/>
+            <rect x="-8" y="6" width="4" height="8" fill="#008080"/>
+            
+            <!-- Steve Body -->
+            <rect x="-14" y="6" width="8" height="8" fill="#00a8a8"/>
+            <rect x="-14" y="14" width="8" height="6" fill="#3d3dbd"/>
+            
+            <!-- Steve Head -->
+            <rect x="-15" y="-2" width="10" height="10" fill="#dca982"/>
+            <rect x="-15" y="-2" width="10" height="2" fill="#312219"/>
+            <rect x="-15" y="0" width="3" height="3" fill="#312219"/>
+            <rect x="-9" y="1" width="2" height="2" fill="#ffffff"/>
+            <rect x="-8" y="1" width="1" height="2" fill="#463a89"/>
+            <rect x="-9" y="5" width="4" height="1" fill="#9e6e58"/> <!-- Mouth -->
+
+            <!-- Swinging Front Arm + Pickaxe -->
+            <g class="axe">
+                <!-- Steve Front Arm -->
+                <rect x="-11" y="6" width="4" height="5" fill="#00a8a8"/>
+                <rect x="-11" y="11" width="4" height="4" fill="#dca982"/>
+                <!-- Pickaxe Emoji -->
+                <text x="-13" y="24" font-size="16">⛏️</text>
+            </g>
+            
+            <g class="boink"><text x="5" y="-5">boink!</text></g>
         </g>
     '''
     
