@@ -58,7 +58,7 @@ def build_miner_svg():
         
     active_blocks.sort(key=lambda b: (b[0], b[1]))
     
-    time_per_block = 1.0
+    time_per_block = 0.6
     keyframes = ""
     block_animations = ""
     total_points = len(active_blocks)

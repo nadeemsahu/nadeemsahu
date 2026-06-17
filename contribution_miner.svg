@@ -28,7 +28,7 @@
 
         }
         .miner-char {
-            animation: walkPath 22.0s linear infinite;
+            animation: walkPath 13.2s linear infinite;
             font-size: 18px;
             text-shadow: 0 0 5px rgba(0,255,0,0.5);
         }
@@ -41,7 +41,7 @@
             75% { transform: rotate(0deg) translate(0, 0); }
         }
         .axe {
-            animation: swingAxe 1.0s linear infinite;
+            animation: swingAxe 0.6s linear infinite;
             transform-origin: 0px 10px;
         }
         @keyframes boinkFade {
@@ -58,7 +58,7 @@
             fill: #ffcc00;
             text-shadow: 0 0 2px #ff0000;
             opacity: 0;
-            animation: boinkFade 1.0s ease-out infinite;
+            animation: boinkFade 0.6s ease-out infinite;
             transform-origin: -5px -5px;
         }
         .title-text {
@@ -82,7 +82,7 @@
             100% { fill: #161B22; }
         }
         #block-459-44 {
-            animation: mine_block_459_44 22.0s linear infinite;
+            animation: mine_block_459_44 13.2s linear infinite;
         }
         
         @keyframes mine_block_459_56 {
@@ -92,7 +92,7 @@
             100% { fill: #161B22; }
         }
         #block-459-56 {
-            animation: mine_block_459_56 22.0s linear infinite;
+            animation: mine_block_459_56 13.2s linear infinite;
         }
         
         @keyframes mine_block_459_68 {
@@ -102,7 +102,7 @@
             100% { fill: #161B22; }
         }
         #block-459-68 {
-            animation: mine_block_459_68 22.0s linear infinite;
+            animation: mine_block_459_68 13.2s linear infinite;
         }
         
         @keyframes mine_block_471_20 {
@@ -112,7 +112,7 @@
             100% { fill: #161B22; }
         }
         #block-471-20 {
-            animation: mine_block_471_20 22.0s linear infinite;
+            animation: mine_block_471_20 13.2s linear infinite;
         }
         
         @keyframes mine_block_471_32 {
@@ -122,7 +122,7 @@
             100% { fill: #161B22; }
         }
         #block-471-32 {
-            animation: mine_block_471_32 22.0s linear infinite;
+            animation: mine_block_471_32 13.2s linear infinite;
         }
         
         @keyframes mine_block_483_56 {
@@ -132,7 +132,7 @@
             100% { fill: #161B22; }
         }
         #block-483-56 {
-            animation: mine_block_483_56 22.0s linear infinite;
+            animation: mine_block_483_56 13.2s linear infinite;
         }
         
         @keyframes mine_block_483_68 {
@@ -142,7 +142,7 @@
             100% { fill: #161B22; }
         }
         #block-483-68 {
-            animation: mine_block_483_68 22.0s linear infinite;
+            animation: mine_block_483_68 13.2s linear infinite;
         }
         
         @keyframes mine_block_483_92 {
@@ -152,7 +152,7 @@
             100% { fill: #161B22; }
         }
         #block-483-92 {
-            animation: mine_block_483_92 22.0s linear infinite;
+            animation: mine_block_483_92 13.2s linear infinite;
         }
         
         @keyframes mine_block_495_32 {
@@ -162,7 +162,7 @@
             100% { fill: #161B22; }
         }
         #block-495-32 {
-            animation: mine_block_495_32 22.0s linear infinite;
+            animation: mine_block_495_32 13.2s linear infinite;
         }
         
         @keyframes mine_block_495_44 {
@@ -172,7 +172,7 @@
             100% { fill: #161B22; }
         }
         #block-495-44 {
-            animation: mine_block_495_44 22.0s linear infinite;
+            animation: mine_block_495_44 13.2s linear infinite;
         }
         
         @keyframes mine_block_507_56 {
@@ -182,7 +182,7 @@
             100% { fill: #161B22; }
         }
         #block-507-56 {
-            animation: mine_block_507_56 22.0s linear infinite;
+            animation: mine_block_507_56 13.2s linear infinite;
         }
         
         @keyframes mine_block_507_92 {
@@ -192,7 +192,7 @@
             100% { fill: #161B22; }
         }
         #block-507-92 {
-            animation: mine_block_507_92 22.0s linear infinite;
+            animation: mine_block_507_92 13.2s linear infinite;
         }
         
         @keyframes mine_block_531_56 {
@@ -202,7 +202,7 @@
             100% { fill: #161B22; }
         }
         #block-531-56 {
-            animation: mine_block_531_56 22.0s linear infinite;
+            animation: mine_block_531_56 13.2s linear infinite;
         }
         
         @keyframes mine_block_543_20 {
@@ -212,7 +212,7 @@
             100% { fill: #161B22; }
         }
         #block-543-20 {
-            animation: mine_block_543_20 22.0s linear infinite;
+            animation: mine_block_543_20 13.2s linear infinite;
         }
         
         @keyframes mine_block_567_32 {
@@ -222,7 +222,7 @@
             100% { fill: #161B22; }
         }
         #block-567-32 {
-            animation: mine_block_567_32 22.0s linear infinite;
+            animation: mine_block_567_32 13.2s linear infinite;
         }
         
         @keyframes mine_block_567_44 {
@@ -232,7 +232,7 @@
             100% { fill: #161B22; }
         }
         #block-567-44 {
-            animation: mine_block_567_44 22.0s linear infinite;
+            animation: mine_block_567_44 13.2s linear infinite;
         }
         
         @keyframes mine_block_567_92 {
@@ -242,7 +242,7 @@
             100% { fill: #161B22; }
         }
         #block-567-92 {
-            animation: mine_block_567_92 22.0s linear infinite;
+            animation: mine_block_567_92 13.2s linear infinite;
         }
         
         @keyframes mine_block_615_20 {
@@ -252,7 +252,7 @@
             100% { fill: #161B22; }
         }
         #block-615-20 {
-            animation: mine_block_615_20 22.0s linear infinite;
+            animation: mine_block_615_20 13.2s linear infinite;
         }
         
         @keyframes mine_block_639_80 {
@@ -262,7 +262,7 @@
             100% { fill: #161B22; }
         }
         #block-639-80 {
-            animation: mine_block_639_80 22.0s linear infinite;
+            animation: mine_block_639_80 13.2s linear infinite;
         }
         
         @keyframes mine_block_639_92 {
@@ -272,7 +272,7 @@
             100% { fill: #161B22; }
         }
         #block-639-92 {
-            animation: mine_block_639_92 22.0s linear infinite;
+            animation: mine_block_639_92 13.2s linear infinite;
         }
         
         @keyframes mine_block_651_44 {
@@ -282,7 +282,7 @@
             100% { fill: #161B22; }
         }
         #block-651-44 {
-            animation: mine_block_651_44 22.0s linear infinite;
+            animation: mine_block_651_44 13.2s linear infinite;
         }
         
         @keyframes mine_block_651_56 {
@@ -292,7 +292,7 @@
             100% { fill: #161B22; }
         }
         #block-651-56 {
-            animation: mine_block_651_56 22.0s linear infinite;
+            animation: mine_block_651_56 13.2s linear infinite;
         }
         
     </style>
