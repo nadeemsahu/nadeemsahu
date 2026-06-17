@@ -330,13 +330,8 @@
                 <!-- Steve Front Arm -->
                 <rect x="-9" y="6" width="4" height="6" fill="#00a8a8"/>
                 <rect x="-9" y="12" width="4" height="4" fill="#dca982"/>
-                <!-- Custom Pixel Pickaxe -->
-                <g class="pickaxe" transform="translate(-7, 14) rotate(45)">
-                    <rect x="-1" y="-14" width="2" height="14" fill="#8B4513"/> <!-- Handle -->
-                    <rect x="-6" y="-14" width="12" height="2" fill="#A9A9A9"/> <!-- Blade top -->
-                    <rect x="-6" y="-12" width="2" height="2" fill="#A9A9A9"/> <!-- Blade left tip -->
-                    <rect x="4" y="-12" width="2" height="2" fill="#A9A9A9"/> <!-- Blade right tip -->
-                </g>
+                <!-- Pickaxe Emoji -->
+                <text x="-12" y="18" font-size="16">⛏️</text>
             </g>
             
             <g class="boink"><text x="5" y="-5">boink!</text></g>
