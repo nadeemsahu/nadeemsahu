@@ -95,10 +95,10 @@ def build_miner_svg():
         }}
         @keyframes swingAxe {{
             0%, 100% {{ transform: rotate(0deg); }}
-            35% {{ transform: rotate(45deg); }}
-            48% {{ transform: rotate(50deg); }}
-            50% {{ transform: rotate(-50deg); }}
-            53% {{ transform: rotate(-35deg); }}
+            35% {{ transform: rotate(-90deg); }}
+            48% {{ transform: rotate(-120deg); }}
+            50% {{ transform: rotate(20deg); }}
+            53% {{ transform: rotate(0deg); }}
             75% {{ transform: rotate(0deg); }}
         }}
         .axe {{
