@@ -3,51 +3,51 @@
     
     <style>
         @keyframes walkPath {
-            0.000%, 2.221% { transform: translate(215px, 30px); }
-            2.222%, 4.443% { transform: translate(215px, 42px); }
-            4.444%, 6.666% { transform: translate(215px, 54px); }
-            6.667%, 8.888% { transform: translate(227px, 6px); }
-            8.889%, 11.110% { transform: translate(227px, 18px); }
-            11.111%, 13.332% { transform: translate(239px, 42px); }
-            13.333%, 15.555% { transform: translate(239px, 54px); }
-            15.556%, 17.777% { transform: translate(239px, 78px); }
-            17.778%, 19.999% { transform: translate(251px, 18px); }
-            20.000%, 22.221% { transform: translate(251px, 30px); }
-            22.222%, 24.443% { transform: translate(263px, 42px); }
-            24.444%, 26.666% { transform: translate(263px, 78px); }
-            26.667%, 28.888% { transform: translate(287px, 42px); }
-            28.889%, 31.110% { transform: translate(299px, 6px); }
-            31.111%, 33.332% { transform: translate(323px, 18px); }
-            33.333%, 35.555% { transform: translate(323px, 30px); }
-            35.556%, 37.777% { transform: translate(323px, 78px); }
-            37.778%, 39.999% { transform: translate(371px, 6px); }
-            40.000%, 42.221% { transform: translate(395px, 66px); }
-            42.222%, 44.443% { transform: translate(395px, 78px); }
-            44.444%, 46.666% { transform: translate(407px, 30px); }
-            46.667%, 48.888% { transform: translate(407px, 42px); }
-            48.889%, 51.110% { transform: translate(407px, 54px); }
-            51.111%, 53.332% { transform: translate(407px, 78px); }
-            53.333%, 55.555% { transform: translate(419px, 6px); }
-            55.556%, 57.777% { transform: translate(419px, 18px); }
-            57.778%, 59.999% { transform: translate(419px, 30px); }
-            60.000%, 62.221% { transform: translate(419px, 42px); }
-            62.222%, 64.443% { transform: translate(527px, 18px); }
-            64.444%, 66.666% { transform: translate(527px, 30px); }
-            66.667%, 68.888% { transform: translate(527px, 78px); }
-            68.889%, 71.110% { transform: translate(539px, 18px); }
-            71.111%, 73.332% { transform: translate(539px, 30px); }
-            73.333%, 75.555% { transform: translate(539px, 42px); }
-            75.556%, 77.777% { transform: translate(539px, 54px); }
-            77.778%, 79.999% { transform: translate(539px, 66px); }
-            80.000%, 82.221% { transform: translate(563px, 30px); }
-            82.222%, 84.443% { transform: translate(575px, 30px); }
-            84.444%, 86.666% { transform: translate(575px, 54px); }
-            86.667%, 88.888% { transform: translate(599px, 18px); }
-            88.889%, 91.110% { transform: translate(599px, 54px); }
-            91.111%, 93.332% { transform: translate(611px, 66px); }
-            93.333%, 95.555% { transform: translate(635px, 54px); }
-            95.556%, 97.777% { transform: translate(635px, 66px); }
-            97.778%, 99.999% { transform: translate(647px, 18px); }
+            0.000%, 2.221% { transform: translate(203px, 30px); }
+            2.222%, 4.443% { transform: translate(203px, 42px); }
+            4.444%, 6.666% { transform: translate(203px, 54px); }
+            6.667%, 8.888% { transform: translate(215px, 6px); }
+            8.889%, 11.110% { transform: translate(215px, 18px); }
+            11.111%, 13.332% { transform: translate(227px, 42px); }
+            13.333%, 15.555% { transform: translate(227px, 54px); }
+            15.556%, 17.777% { transform: translate(227px, 78px); }
+            17.778%, 19.999% { transform: translate(239px, 18px); }
+            20.000%, 22.221% { transform: translate(239px, 30px); }
+            22.222%, 24.443% { transform: translate(251px, 42px); }
+            24.444%, 26.666% { transform: translate(251px, 78px); }
+            26.667%, 28.888% { transform: translate(275px, 42px); }
+            28.889%, 31.110% { transform: translate(287px, 6px); }
+            31.111%, 33.332% { transform: translate(311px, 18px); }
+            33.333%, 35.555% { transform: translate(311px, 30px); }
+            35.556%, 37.777% { transform: translate(311px, 78px); }
+            37.778%, 39.999% { transform: translate(359px, 6px); }
+            40.000%, 42.221% { transform: translate(383px, 66px); }
+            42.222%, 44.443% { transform: translate(383px, 78px); }
+            44.444%, 46.666% { transform: translate(395px, 30px); }
+            46.667%, 48.888% { transform: translate(395px, 42px); }
+            48.889%, 51.110% { transform: translate(395px, 54px); }
+            51.111%, 53.332% { transform: translate(395px, 78px); }
+            53.333%, 55.555% { transform: translate(407px, 6px); }
+            55.556%, 57.777% { transform: translate(407px, 18px); }
+            57.778%, 59.999% { transform: translate(407px, 30px); }
+            60.000%, 62.221% { transform: translate(407px, 42px); }
+            62.222%, 64.443% { transform: translate(515px, 18px); }
+            64.444%, 66.666% { transform: translate(515px, 30px); }
+            66.667%, 68.888% { transform: translate(515px, 78px); }
+            68.889%, 71.110% { transform: translate(527px, 18px); }
+            71.111%, 73.332% { transform: translate(527px, 30px); }
+            73.333%, 75.555% { transform: translate(527px, 42px); }
+            75.556%, 77.777% { transform: translate(527px, 54px); }
+            77.778%, 79.999% { transform: translate(527px, 66px); }
+            80.000%, 82.221% { transform: translate(551px, 30px); }
+            82.222%, 84.443% { transform: translate(563px, 30px); }
+            84.444%, 86.666% { transform: translate(563px, 54px); }
+            86.667%, 88.888% { transform: translate(587px, 18px); }
+            88.889%, 91.110% { transform: translate(587px, 54px); }
+            91.111%, 93.332% { transform: translate(599px, 66px); }
+            93.333%, 95.555% { transform: translate(623px, 54px); }
+            95.556%, 97.777% { transform: translate(623px, 66px); }
+            97.778%, 99.999% { transform: translate(635px, 18px); }
 
         }
         .miner-char {
@@ -98,210 +98,270 @@
             transform: translate(20px, 40px);
         }
 
-        @keyframes mine_block_219_44 {
+        @keyframes mine_block_207_44 {
             0% { fill: #39d353; }
             1.011% { fill: #39d353; }
             1.111% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-219-44 {
-            animation: mine_block_219_44 27.0s linear infinite;
+        #block-207-44 {
+            animation: mine_block_207_44 27.0s linear infinite;
         }
         
-        @keyframes mine_block_219_56 {
+        @keyframes mine_block_207_56 {
             0% { fill: #39d353; }
             3.233% { fill: #39d353; }
             3.333% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-219-56 {
-            animation: mine_block_219_56 27.0s linear infinite;
+        #block-207-56 {
+            animation: mine_block_207_56 27.0s linear infinite;
         }
         
-        @keyframes mine_block_219_68 {
+        @keyframes mine_block_207_68 {
             0% { fill: #39d353; }
             5.456% { fill: #39d353; }
             5.556% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-219-68 {
-            animation: mine_block_219_68 27.0s linear infinite;
+        #block-207-68 {
+            animation: mine_block_207_68 27.0s linear infinite;
         }
         
-        @keyframes mine_block_231_20 {
+        @keyframes mine_block_219_20 {
             0% { fill: #39d353; }
             7.678% { fill: #39d353; }
             7.778% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-231-20 {
-            animation: mine_block_231_20 27.0s linear infinite;
+        #block-219-20 {
+            animation: mine_block_219_20 27.0s linear infinite;
         }
         
-        @keyframes mine_block_231_32 {
+        @keyframes mine_block_219_32 {
             0% { fill: #39d353; }
             9.900% { fill: #39d353; }
             10.000% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-231-32 {
-            animation: mine_block_231_32 27.0s linear infinite;
+        #block-219-32 {
+            animation: mine_block_219_32 27.0s linear infinite;
         }
         
-        @keyframes mine_block_243_56 {
+        @keyframes mine_block_231_56 {
             0% { fill: #39d353; }
             12.122% { fill: #39d353; }
             12.222% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-243-56 {
-            animation: mine_block_243_56 27.0s linear infinite;
+        #block-231-56 {
+            animation: mine_block_231_56 27.0s linear infinite;
         }
         
-        @keyframes mine_block_243_68 {
+        @keyframes mine_block_231_68 {
             0% { fill: #39d353; }
             14.344% { fill: #39d353; }
             14.444% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-243-68 {
-            animation: mine_block_243_68 27.0s linear infinite;
+        #block-231-68 {
+            animation: mine_block_231_68 27.0s linear infinite;
         }
         
-        @keyframes mine_block_243_92 {
+        @keyframes mine_block_231_92 {
             0% { fill: #39d353; }
             16.567% { fill: #39d353; }
             16.667% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-243-92 {
-            animation: mine_block_243_92 27.0s linear infinite;
+        #block-231-92 {
+            animation: mine_block_231_92 27.0s linear infinite;
         }
         
-        @keyframes mine_block_255_32 {
+        @keyframes mine_block_243_32 {
             0% { fill: #39d353; }
             18.789% { fill: #39d353; }
             18.889% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-255-32 {
-            animation: mine_block_255_32 27.0s linear infinite;
+        #block-243-32 {
+            animation: mine_block_243_32 27.0s linear infinite;
         }
         
-        @keyframes mine_block_255_44 {
+        @keyframes mine_block_243_44 {
             0% { fill: #39d353; }
             21.011% { fill: #39d353; }
             21.111% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-255-44 {
-            animation: mine_block_255_44 27.0s linear infinite;
+        #block-243-44 {
+            animation: mine_block_243_44 27.0s linear infinite;
         }
         
-        @keyframes mine_block_267_56 {
+        @keyframes mine_block_255_56 {
             0% { fill: #39d353; }
             23.233% { fill: #39d353; }
             23.333% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-267-56 {
-            animation: mine_block_267_56 27.0s linear infinite;
+        #block-255-56 {
+            animation: mine_block_255_56 27.0s linear infinite;
         }
         
-        @keyframes mine_block_267_92 {
+        @keyframes mine_block_255_92 {
             0% { fill: #39d353; }
             25.456% { fill: #39d353; }
             25.556% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-267-92 {
-            animation: mine_block_267_92 27.0s linear infinite;
+        #block-255-92 {
+            animation: mine_block_255_92 27.0s linear infinite;
         }
         
-        @keyframes mine_block_291_56 {
+        @keyframes mine_block_279_56 {
             0% { fill: #39d353; }
             27.678% { fill: #39d353; }
             27.778% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-291-56 {
-            animation: mine_block_291_56 27.0s linear infinite;
+        #block-279-56 {
+            animation: mine_block_279_56 27.0s linear infinite;
         }
         
-        @keyframes mine_block_303_20 {
+        @keyframes mine_block_291_20 {
             0% { fill: #39d353; }
             29.900% { fill: #39d353; }
             30.000% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-303-20 {
-            animation: mine_block_303_20 27.0s linear infinite;
+        #block-291-20 {
+            animation: mine_block_291_20 27.0s linear infinite;
         }
         
-        @keyframes mine_block_327_32 {
+        @keyframes mine_block_315_32 {
             0% { fill: #39d353; }
             32.122% { fill: #39d353; }
             32.222% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-327-32 {
-            animation: mine_block_327_32 27.0s linear infinite;
+        #block-315-32 {
+            animation: mine_block_315_32 27.0s linear infinite;
         }
         
-        @keyframes mine_block_327_44 {
+        @keyframes mine_block_315_44 {
             0% { fill: #39d353; }
             34.344% { fill: #39d353; }
             34.444% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-327-44 {
-            animation: mine_block_327_44 27.0s linear infinite;
+        #block-315-44 {
+            animation: mine_block_315_44 27.0s linear infinite;
         }
         
-        @keyframes mine_block_327_92 {
+        @keyframes mine_block_315_92 {
             0% { fill: #39d353; }
             36.567% { fill: #39d353; }
             36.667% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-327-92 {
-            animation: mine_block_327_92 27.0s linear infinite;
+        #block-315-92 {
+            animation: mine_block_315_92 27.0s linear infinite;
         }
         
-        @keyframes mine_block_375_20 {
+        @keyframes mine_block_363_20 {
             0% { fill: #39d353; }
             38.789% { fill: #39d353; }
             38.889% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-375-20 {
-            animation: mine_block_375_20 27.0s linear infinite;
+        #block-363-20 {
+            animation: mine_block_363_20 27.0s linear infinite;
         }
         
-        @keyframes mine_block_399_80 {
+        @keyframes mine_block_387_80 {
             0% { fill: #39d353; }
             41.011% { fill: #39d353; }
             41.111% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-399-80 {
-            animation: mine_block_399_80 27.0s linear infinite;
+        #block-387-80 {
+            animation: mine_block_387_80 27.0s linear infinite;
+        }
+        
+        @keyframes mine_block_387_92 {
+            0% { fill: #39d353; }
+            43.233% { fill: #39d353; }
+            43.333% { fill: #161B22; }
+            100% { fill: #161B22; }
+        }
+        #block-387-92 {
+            animation: mine_block_387_92 27.0s linear infinite;
+        }
+        
+        @keyframes mine_block_399_44 {
+            0% { fill: #39d353; }
+            45.456% { fill: #39d353; }
+            45.556% { fill: #161B22; }
+            100% { fill: #161B22; }
+        }
+        #block-399-44 {
+            animation: mine_block_399_44 27.0s linear infinite;
+        }
+        
+        @keyframes mine_block_399_56 {
+            0% { fill: #39d353; }
+            47.678% { fill: #39d353; }
+            47.778% { fill: #161B22; }
+            100% { fill: #161B22; }
+        }
+        #block-399-56 {
+            animation: mine_block_399_56 27.0s linear infinite;
+        }
+        
+        @keyframes mine_block_399_68 {
+            0% { fill: #39d353; }
+            49.900% { fill: #39d353; }
+            50.000% { fill: #161B22; }
+            100% { fill: #161B22; }
+        }
+        #block-399-68 {
+            animation: mine_block_399_68 27.0s linear infinite;
         }
         
         @keyframes mine_block_399_92 {
             0% { fill: #39d353; }
-            43.233% { fill: #39d353; }
-            43.333% { fill: #161B22; }
+            52.122% { fill: #39d353; }
+            52.222% { fill: #161B22; }
             100% { fill: #161B22; }
         }
         #block-399-92 {
             animation: mine_block_399_92 27.0s linear infinite;
         }
         
+        @keyframes mine_block_411_20 {
+            0% { fill: #39d353; }
+            54.344% { fill: #39d353; }
+            54.444% { fill: #161B22; }
+            100% { fill: #161B22; }
+        }
+        #block-411-20 {
+            animation: mine_block_411_20 27.0s linear infinite;
+        }
+        
+        @keyframes mine_block_411_32 {
+            0% { fill: #39d353; }
+            56.567% { fill: #39d353; }
+            56.667% { fill: #161B22; }
+            100% { fill: #161B22; }
+        }
+        #block-411-32 {
+            animation: mine_block_411_32 27.0s linear infinite;
+        }
+        
         @keyframes mine_block_411_44 {
             0% { fill: #39d353; }
-            45.456% { fill: #39d353; }
-            45.556% { fill: #161B22; }
+            58.789% { fill: #39d353; }
+            58.889% { fill: #161B22; }
             100% { fill: #161B22; }
         }
         #block-411-44 {
@@ -310,78 +370,48 @@
         
         @keyframes mine_block_411_56 {
             0% { fill: #39d353; }
-            47.678% { fill: #39d353; }
-            47.778% { fill: #161B22; }
+            61.011% { fill: #39d353; }
+            61.111% { fill: #161B22; }
             100% { fill: #161B22; }
         }
         #block-411-56 {
             animation: mine_block_411_56 27.0s linear infinite;
         }
         
-        @keyframes mine_block_411_68 {
+        @keyframes mine_block_519_32 {
             0% { fill: #39d353; }
-            49.900% { fill: #39d353; }
-            50.000% { fill: #161B22; }
+            63.233% { fill: #39d353; }
+            63.333% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-411-68 {
-            animation: mine_block_411_68 27.0s linear infinite;
+        #block-519-32 {
+            animation: mine_block_519_32 27.0s linear infinite;
         }
         
-        @keyframes mine_block_411_92 {
+        @keyframes mine_block_519_44 {
             0% { fill: #39d353; }
-            52.122% { fill: #39d353; }
-            52.222% { fill: #161B22; }
+            65.456% { fill: #39d353; }
+            65.556% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-411-92 {
-            animation: mine_block_411_92 27.0s linear infinite;
+        #block-519-44 {
+            animation: mine_block_519_44 27.0s linear infinite;
         }
         
-        @keyframes mine_block_423_20 {
+        @keyframes mine_block_519_92 {
             0% { fill: #39d353; }
-            54.344% { fill: #39d353; }
-            54.444% { fill: #161B22; }
+            67.678% { fill: #39d353; }
+            67.778% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-423-20 {
-            animation: mine_block_423_20 27.0s linear infinite;
-        }
-        
-        @keyframes mine_block_423_32 {
-            0% { fill: #39d353; }
-            56.567% { fill: #39d353; }
-            56.667% { fill: #161B22; }
-            100% { fill: #161B22; }
-        }
-        #block-423-32 {
-            animation: mine_block_423_32 27.0s linear infinite;
-        }
-        
-        @keyframes mine_block_423_44 {
-            0% { fill: #39d353; }
-            58.789% { fill: #39d353; }
-            58.889% { fill: #161B22; }
-            100% { fill: #161B22; }
-        }
-        #block-423-44 {
-            animation: mine_block_423_44 27.0s linear infinite;
-        }
-        
-        @keyframes mine_block_423_56 {
-            0% { fill: #39d353; }
-            61.011% { fill: #39d353; }
-            61.111% { fill: #161B22; }
-            100% { fill: #161B22; }
-        }
-        #block-423-56 {
-            animation: mine_block_423_56 27.0s linear infinite;
+        #block-519-92 {
+            animation: mine_block_519_92 27.0s linear infinite;
         }
         
         @keyframes mine_block_531_32 {
             0% { fill: #39d353; }
-            63.233% { fill: #39d353; }
-            63.333% { fill: #161B22; }
+            69.900% { fill: #39d353; }
+            70.000% { fill: #161B22; }
             100% { fill: #161B22; }
         }
         #block-531-32 {
@@ -390,162 +420,132 @@
         
         @keyframes mine_block_531_44 {
             0% { fill: #39d353; }
-            65.456% { fill: #39d353; }
-            65.556% { fill: #161B22; }
+            72.122% { fill: #39d353; }
+            72.222% { fill: #161B22; }
             100% { fill: #161B22; }
         }
         #block-531-44 {
             animation: mine_block_531_44 27.0s linear infinite;
         }
         
-        @keyframes mine_block_531_92 {
-            0% { fill: #39d353; }
-            67.678% { fill: #39d353; }
-            67.778% { fill: #161B22; }
-            100% { fill: #161B22; }
-        }
-        #block-531-92 {
-            animation: mine_block_531_92 27.0s linear infinite;
-        }
-        
-        @keyframes mine_block_543_32 {
-            0% { fill: #39d353; }
-            69.900% { fill: #39d353; }
-            70.000% { fill: #161B22; }
-            100% { fill: #161B22; }
-        }
-        #block-543-32 {
-            animation: mine_block_543_32 27.0s linear infinite;
-        }
-        
-        @keyframes mine_block_543_44 {
-            0% { fill: #39d353; }
-            72.122% { fill: #39d353; }
-            72.222% { fill: #161B22; }
-            100% { fill: #161B22; }
-        }
-        #block-543-44 {
-            animation: mine_block_543_44 27.0s linear infinite;
-        }
-        
-        @keyframes mine_block_543_56 {
+        @keyframes mine_block_531_56 {
             0% { fill: #39d353; }
             74.344% { fill: #39d353; }
             74.444% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-543-56 {
-            animation: mine_block_543_56 27.0s linear infinite;
+        #block-531-56 {
+            animation: mine_block_531_56 27.0s linear infinite;
         }
         
-        @keyframes mine_block_543_68 {
+        @keyframes mine_block_531_68 {
             0% { fill: #39d353; }
             76.567% { fill: #39d353; }
             76.667% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-543-68 {
-            animation: mine_block_543_68 27.0s linear infinite;
+        #block-531-68 {
+            animation: mine_block_531_68 27.0s linear infinite;
         }
         
-        @keyframes mine_block_543_80 {
+        @keyframes mine_block_531_80 {
             0% { fill: #39d353; }
             78.789% { fill: #39d353; }
             78.889% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-543-80 {
-            animation: mine_block_543_80 27.0s linear infinite;
+        #block-531-80 {
+            animation: mine_block_531_80 27.0s linear infinite;
+        }
+        
+        @keyframes mine_block_555_44 {
+            0% { fill: #39d353; }
+            81.011% { fill: #39d353; }
+            81.111% { fill: #161B22; }
+            100% { fill: #161B22; }
+        }
+        #block-555-44 {
+            animation: mine_block_555_44 27.0s linear infinite;
         }
         
         @keyframes mine_block_567_44 {
             0% { fill: #39d353; }
-            81.011% { fill: #39d353; }
-            81.111% { fill: #161B22; }
+            83.233% { fill: #39d353; }
+            83.333% { fill: #161B22; }
             100% { fill: #161B22; }
         }
         #block-567-44 {
             animation: mine_block_567_44 27.0s linear infinite;
         }
         
-        @keyframes mine_block_579_44 {
-            0% { fill: #39d353; }
-            83.233% { fill: #39d353; }
-            83.333% { fill: #161B22; }
-            100% { fill: #161B22; }
-        }
-        #block-579-44 {
-            animation: mine_block_579_44 27.0s linear infinite;
-        }
-        
-        @keyframes mine_block_579_68 {
+        @keyframes mine_block_567_68 {
             0% { fill: #39d353; }
             85.456% { fill: #39d353; }
             85.556% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-579-68 {
-            animation: mine_block_579_68 27.0s linear infinite;
+        #block-567-68 {
+            animation: mine_block_567_68 27.0s linear infinite;
         }
         
-        @keyframes mine_block_603_32 {
+        @keyframes mine_block_591_32 {
             0% { fill: #39d353; }
             87.678% { fill: #39d353; }
             87.778% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-603-32 {
-            animation: mine_block_603_32 27.0s linear infinite;
+        #block-591-32 {
+            animation: mine_block_591_32 27.0s linear infinite;
         }
         
-        @keyframes mine_block_603_68 {
+        @keyframes mine_block_591_68 {
             0% { fill: #39d353; }
             89.900% { fill: #39d353; }
             90.000% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-603-68 {
-            animation: mine_block_603_68 27.0s linear infinite;
+        #block-591-68 {
+            animation: mine_block_591_68 27.0s linear infinite;
         }
         
-        @keyframes mine_block_615_80 {
+        @keyframes mine_block_603_80 {
             0% { fill: #39d353; }
             92.122% { fill: #39d353; }
             92.222% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-615-80 {
-            animation: mine_block_615_80 27.0s linear infinite;
+        #block-603-80 {
+            animation: mine_block_603_80 27.0s linear infinite;
         }
         
-        @keyframes mine_block_639_68 {
+        @keyframes mine_block_627_68 {
             0% { fill: #39d353; }
             94.344% { fill: #39d353; }
             94.444% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-639-68 {
-            animation: mine_block_639_68 27.0s linear infinite;
+        #block-627-68 {
+            animation: mine_block_627_68 27.0s linear infinite;
         }
         
-        @keyframes mine_block_639_80 {
+        @keyframes mine_block_627_80 {
             0% { fill: #39d353; }
             96.567% { fill: #39d353; }
             96.667% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-639-80 {
-            animation: mine_block_639_80 27.0s linear infinite;
+        #block-627-80 {
+            animation: mine_block_627_80 27.0s linear infinite;
         }
         
-        @keyframes mine_block_651_32 {
+        @keyframes mine_block_639_32 {
             0% { fill: #39d353; }
             98.789% { fill: #39d353; }
             98.889% { fill: #161B22; }
             100% { fill: #161B22; }
         }
-        #block-651-32 {
-            animation: mine_block_651_32 27.0s linear infinite;
+        #block-639-32 {
+            animation: mine_block_639_32 27.0s linear infinite;
         }
         
     </style>
@@ -559,7 +559,7 @@
     
     <g class="grid-group">
         
-<rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-02" x="27" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-09" x="39" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-16" x="51" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-23" x="63" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-30" x="75" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-07" x="87" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-14" x="99" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-21" x="111" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-28" x="123" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-04" x="135" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-11" x="147" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-18" x="159" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-25" x="171" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-01" x="183" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-08" x="195" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-15" x="207" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-22" x="219" y="20" width="10" height="10"/><rect id="block-231-20" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-01" x="231" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-08" x="243" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-15" x="255" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-22" x="267" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-29" x="279" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-05" x="291" y="20" width="10" height="10"/><rect id="block-303-20" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-04-12" x="303" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-19" x="315" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-26" x="327" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-03" x="339" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-10" x="351" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-17" x="363" y="20" width="10" height="10"/><rect id="block-375-20" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-05-24" x="375" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-31" x="387" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-07" x="399" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-14" x="411" y="20" width="10" height="10"/><rect id="block-423-20" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-21" x="423" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-28" x="435" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-05" x="447" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-12" x="459" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-19" x="471" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-26" x="483" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-02" x="495" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-09" x="507" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-16" x="519" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-23" x="531" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-30" x="543" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-06" x="555" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-13" x="567" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-20" x="579" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-27" x="591" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-04" x="603" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-11" x="615" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-18" x="627" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-25" x="639" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-01" x="651" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-03" x="27" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-10" x="39" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-17" x="51" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-24" x="63" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-01" x="75" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-08" x="87" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-15" x="99" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-22" x="111" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-29" x="123" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-05" x="135" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-12" x="147" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-19" x="159" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-26" x="171" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-02" x="183" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-09" x="195" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-16" x="207" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-23" x="219" y="32" width="10" height="10"/><rect id="block-231-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-02" x="231" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-09" x="243" y="32" width="10" height="10"/><rect id="block-255-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-16" x="255" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-23" x="267" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-30" x="279" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-06" x="291" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-13" x="303" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-20" x="315" y="32" width="10" height="10"/><rect id="block-327-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-04-27" x="327" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-04" x="339" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-11" x="351" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-18" x="363" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-25" x="375" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-01" x="387" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-08" x="399" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-15" x="411" y="32" width="10" height="10"/><rect id="block-423-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-06-22" x="423" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-29" x="435" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-06" x="447" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-13" x="459" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-20" x="471" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-27" x="483" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-03" x="495" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-10" x="507" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-17" x="519" y="32" width="10" height="10"/><rect id="block-531-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-08-24" x="531" y="32" width="10" height="10"/><rect id="block-543-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-08-31" x="543" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-07" x="555" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-14" x="567" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-21" x="579" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-28" x="591" y="32" width="10" height="10"/><rect id="block-603-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-10-05" x="603" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-12" x="615" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-19" x="627" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-26" x="639" y="32" width="10" height="10"/><rect id="block-651-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-11-02" x="651" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-04" x="27" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-11" x="39" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-18" x="51" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-25" x="63" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-02" x="75" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-09" x="87" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-16" x="99" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-23" x="111" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-30" x="123" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-06" x="135" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-13" x="147" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-20" x="159" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-27" x="171" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-03" x="183" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-10" x="195" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-17" x="207" y="44" width="10" height="10"/><rect id="block-219-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-02-24" x="219" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-03" x="231" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-10" x="243" y="44" width="10" height="10"/><rect id="block-255-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-17" x="255" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-24" x="267" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-31" x="279" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-07" x="291" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-14" x="303" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-21" x="315" y="44" width="10" height="10"/><rect id="block-327-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-04-28" x="327" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-05" x="339" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-12" x="351" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-19" x="363" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-26" x="375" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-02" x="387" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-09" x="399" y="44" width="10" height="10"/><rect id="block-411-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="4" data-date="2026-06-16" x="411" y="44" width="10" height="10"/><rect id="block-423-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-23" x="423" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-30" x="435" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-07" x="447" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-14" x="459" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-21" x="471" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-28" x="483" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-04" x="495" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-11" x="507" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-18" x="519" y="44" width="10" height="10"/><rect id="block-531-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-08-25" x="531" y="44" width="10" height="10"/><rect id="block-543-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="4" data-date="2026-09-01" x="543" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-08" x="555" y="44" width="10" height="10"/><rect id="block-567-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-09-15" x="567" y="44" width="10" height="10"/><rect id="block-579-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-09-22" x="579" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-29" x="591" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-06" x="603" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-13" x="615" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-20" x="627" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-27" x="639" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-03" x="651" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-05" x="27" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-12" x="39" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-19" x="51" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-26" x="63" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-03" x="75" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-10" x="87" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-17" x="99" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-24" x="111" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-31" x="123" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-07" x="135" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-14" x="147" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-21" x="159" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-28" x="171" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-04" x="183" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-11" x="195" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-18" x="207" y="56" width="10" height="10"/><rect id="block-219-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="3" data-date="2026-02-25" x="219" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-04" x="231" y="56" width="10" height="10"/><rect id="block-243-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-11" x="243" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-18" x="255" y="56" width="10" height="10"/><rect id="block-267-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-25" x="267" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-01" x="279" y="56" width="10" height="10"/><rect id="block-291-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-04-08" x="291" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-15" x="303" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-22" x="315" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-29" x="327" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-06" x="339" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-13" x="351" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-20" x="363" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-27" x="375" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-03" x="387" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-10" x="399" y="56" width="10" height="10"/><rect id="block-411-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-17" x="411" y="56" width="10" height="10"/><rect id="block-423-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-06-24" x="423" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-01" x="435" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-08" x="447" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-15" x="459" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-22" x="471" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-29" x="483" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-05" x="495" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-12" x="507" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-19" x="519" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-26" x="531" y="56" width="10" height="10"/><rect id="block-543-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="3" data-date="2026-09-02" x="543" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-09" x="555" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-16" x="567" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-23" x="579" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-30" x="591" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-07" x="603" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-14" x="615" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-21" x="627" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-28" x="639" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-04" x="651" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-06" x="27" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-13" x="39" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-20" x="51" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-27" x="63" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-04" x="75" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-11" x="87" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-18" x="99" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-25" x="111" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-01" x="123" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-08" x="135" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-15" x="147" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-22" x="159" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-29" x="171" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-05" x="183" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-12" x="195" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-19" x="207" y="68" width="10" height="10"/><rect id="block-219-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-02-26" x="219" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-05" x="231" y="68" width="10" height="10"/><rect id="block-243-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-12" x="243" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-19" x="255" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-26" x="267" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-02" x="279" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-09" x="291" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-16" x="303" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-23" x="315" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-30" x="327" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-07" x="339" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-14" x="351" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-21" x="363" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-28" x="375" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-04" x="387" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-11" x="399" y="68" width="10" height="10"/><rect id="block-411-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-06-18" x="411" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-25" x="423" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-02" x="435" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-09" x="447" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-16" x="459" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-23" x="471" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-30" x="483" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-06" x="495" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-13" x="507" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-20" x="519" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-27" x="531" y="68" width="10" height="10"/><rect id="block-543-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-09-03" x="543" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-10" x="555" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-17" x="567" y="68" width="10" height="10"/><rect id="block-579-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-09-24" x="579" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-01" x="591" y="68" width="10" height="10"/><rect id="block-603-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-10-08" x="603" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-15" x="615" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-22" x="627" y="68" width="10" height="10"/><rect id="block-639-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-10-29" x="639" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-05" x="651" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-07" x="27" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-14" x="39" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-21" x="51" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-28" x="63" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-05" x="75" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-12" x="87" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-19" x="99" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-26" x="111" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-02" x="123" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-09" x="135" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-16" x="147" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-23" x="159" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-30" x="171" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-06" x="183" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-13" x="195" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-20" x="207" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-27" x="219" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-06" x="231" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-13" x="243" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-20" x="255" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-27" x="267" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-03" x="279" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-10" x="291" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-17" x="303" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-24" x="315" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-01" x="327" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-08" x="339" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-15" x="351" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-22" x="363" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-29" x="375" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-05" x="387" y="80" width="10" height="10"/><rect id="block-399-80" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-06-12" x="399" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-19" x="411" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-26" x="423" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-03" x="435" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-10" x="447" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-17" x="459" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-24" x="471" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-31" x="483" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-07" x="495" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-14" x="507" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-21" x="519" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-28" x="531" y="80" width="10" height="10"/><rect id="block-543-80" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-09-04" x="543" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-11" x="555" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-18" x="567" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-25" x="579" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-02" x="591" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-09" x="603" y="80" width="10" height="10"/><rect id="block-615-80" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-10-16" x="615" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-23" x="627" y="80" width="10" height="10"/><rect id="block-639-80" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-10-30" x="639" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-06" x="651" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-08" x="27" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-15" x="39" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-22" x="51" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-29" x="63" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-06" x="75" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-13" x="87" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-20" x="99" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-27" x="111" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-03" x="123" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-10" x="135" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-17" x="147" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-24" x="159" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-31" x="171" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-07" x="183" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-14" x="195" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-21" x="207" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-28" x="219" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-07" x="231" y="92" width="10" height="10"/><rect id="block-243-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-14" x="243" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-21" x="255" y="92" width="10" height="10"/><rect id="block-267-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-28" x="267" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-04" x="279" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-11" x="291" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-18" x="303" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-25" x="315" y="92" width="10" height="10"/><rect id="block-327-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-05-02" x="327" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-09" x="339" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-16" x="351" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-23" x="363" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-30" x="375" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-06" x="387" y="92" width="10" height="10"/><rect id="block-399-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-13" x="399" y="92" width="10" height="10"/><rect id="block-411-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-20" x="411" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-27" x="423" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-04" x="435" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-11" x="447" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-18" x="459" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-25" x="471" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-01" x="483" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-08" x="495" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-15" x="507" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-22" x="519" y="92" width="10" height="10"/><rect id="block-531-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-08-29" x="531" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-05" x="543" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-12" x="555" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-19" x="567" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-26" x="579" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-03" x="591" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-10" x="603" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-17" x="615" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-24" x="627" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-31" x="639" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-07" x="651" y="92" width="10" height="10"/><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="28">Sun</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="40">Mon</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="52">Tue</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="64">Wed</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="77">Thu</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="89">Fri</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="101">Sat</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="27" y="10">Nov</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="87" y="10">Dec</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="135" y="10">Jan</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="183" y="10">Feb</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="231" y="10">Mar</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="291" y="10">Apr</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="339" y="10">May</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="399" y="10">Jun</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="447" y="10">Jul</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="495" y="10">Aug</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="555" y="10">Sep</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="603" y="10">Oct</text>
+<rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-09" x="27" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-16" x="39" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-23" x="51" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-30" x="63" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-07" x="75" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-14" x="87" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-21" x="99" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-28" x="111" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-04" x="123" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-11" x="135" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-18" x="147" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-25" x="159" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-01" x="171" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-08" x="183" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-15" x="195" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-22" x="207" y="20" width="10" height="10"/><rect id="block-219-20" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-01" x="219" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-08" x="231" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-15" x="243" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-22" x="255" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-29" x="267" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-05" x="279" y="20" width="10" height="10"/><rect id="block-291-20" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-04-12" x="291" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-19" x="303" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-26" x="315" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-03" x="327" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-10" x="339" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-17" x="351" y="20" width="10" height="10"/><rect id="block-363-20" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-05-24" x="363" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-31" x="375" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-07" x="387" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-14" x="399" y="20" width="10" height="10"/><rect id="block-411-20" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-21" x="411" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-28" x="423" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-05" x="435" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-12" x="447" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-19" x="459" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-26" x="471" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-02" x="483" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-09" x="495" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-16" x="507" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-23" x="519" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-30" x="531" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-06" x="543" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-13" x="555" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-20" x="567" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-27" x="579" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-04" x="591" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-11" x="603" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-18" x="615" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-25" x="627" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-01" x="639" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-08" x="651" y="20" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-10" x="27" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-17" x="39" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-24" x="51" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-01" x="63" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-08" x="75" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-15" x="87" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-22" x="99" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-29" x="111" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-05" x="123" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-12" x="135" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-19" x="147" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-26" x="159" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-02" x="171" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-09" x="183" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-16" x="195" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-23" x="207" y="32" width="10" height="10"/><rect id="block-219-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-02" x="219" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-09" x="231" y="32" width="10" height="10"/><rect id="block-243-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-16" x="243" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-23" x="255" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-30" x="267" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-06" x="279" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-13" x="291" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-20" x="303" y="32" width="10" height="10"/><rect id="block-315-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-04-27" x="315" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-04" x="327" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-11" x="339" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-18" x="351" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-25" x="363" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-01" x="375" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-08" x="387" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-15" x="399" y="32" width="10" height="10"/><rect id="block-411-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-06-22" x="411" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-29" x="423" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-06" x="435" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-13" x="447" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-20" x="459" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-27" x="471" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-03" x="483" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-10" x="495" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-17" x="507" y="32" width="10" height="10"/><rect id="block-519-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-08-24" x="519" y="32" width="10" height="10"/><rect id="block-531-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-08-31" x="531" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-07" x="543" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-14" x="555" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-21" x="567" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-28" x="579" y="32" width="10" height="10"/><rect id="block-591-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-10-05" x="591" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-12" x="603" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-19" x="615" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-26" x="627" y="32" width="10" height="10"/><rect id="block-639-32" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-11-02" x="639" y="32" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-11" x="27" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-18" x="39" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-25" x="51" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-02" x="63" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-09" x="75" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-16" x="87" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-23" x="99" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-30" x="111" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-06" x="123" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-13" x="135" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-20" x="147" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-27" x="159" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-03" x="171" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-10" x="183" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-17" x="195" y="44" width="10" height="10"/><rect id="block-207-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-02-24" x="207" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-03" x="219" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-10" x="231" y="44" width="10" height="10"/><rect id="block-243-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-17" x="243" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-24" x="255" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-31" x="267" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-07" x="279" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-14" x="291" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-21" x="303" y="44" width="10" height="10"/><rect id="block-315-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-04-28" x="315" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-05" x="327" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-12" x="339" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-19" x="351" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-26" x="363" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-02" x="375" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-09" x="387" y="44" width="10" height="10"/><rect id="block-399-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="4" data-date="2026-06-16" x="399" y="44" width="10" height="10"/><rect id="block-411-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-23" x="411" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-30" x="423" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-07" x="435" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-14" x="447" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-21" x="459" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-28" x="471" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-04" x="483" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-11" x="495" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-18" x="507" y="44" width="10" height="10"/><rect id="block-519-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-08-25" x="519" y="44" width="10" height="10"/><rect id="block-531-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="4" data-date="2026-09-01" x="531" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-08" x="543" y="44" width="10" height="10"/><rect id="block-555-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-09-15" x="555" y="44" width="10" height="10"/><rect id="block-567-44" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-09-22" x="567" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-29" x="579" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-06" x="591" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-13" x="603" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-20" x="615" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-27" x="627" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-03" x="639" y="44" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-12" x="27" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-19" x="39" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-26" x="51" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-03" x="63" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-10" x="75" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-17" x="87" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-24" x="99" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-31" x="111" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-07" x="123" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-14" x="135" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-21" x="147" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-28" x="159" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-04" x="171" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-11" x="183" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-18" x="195" y="56" width="10" height="10"/><rect id="block-207-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="3" data-date="2026-02-25" x="207" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-04" x="219" y="56" width="10" height="10"/><rect id="block-231-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-11" x="231" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-18" x="243" y="56" width="10" height="10"/><rect id="block-255-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-25" x="255" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-01" x="267" y="56" width="10" height="10"/><rect id="block-279-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-04-08" x="279" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-15" x="291" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-22" x="303" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-29" x="315" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-06" x="327" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-13" x="339" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-20" x="351" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-27" x="363" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-03" x="375" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-10" x="387" y="56" width="10" height="10"/><rect id="block-399-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-17" x="399" y="56" width="10" height="10"/><rect id="block-411-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-06-24" x="411" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-01" x="423" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-08" x="435" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-15" x="447" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-22" x="459" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-29" x="471" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-05" x="483" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-12" x="495" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-19" x="507" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-26" x="519" y="56" width="10" height="10"/><rect id="block-531-56" style="fill:#39d353;shape-rendering:crispedges;" data-score="3" data-date="2026-09-02" x="531" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-09" x="543" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-16" x="555" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-23" x="567" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-30" x="579" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-07" x="591" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-14" x="603" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-21" x="615" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-28" x="627" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-04" x="639" y="56" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-13" x="27" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-20" x="39" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-27" x="51" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-04" x="63" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-11" x="75" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-18" x="87" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-25" x="99" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-01" x="111" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-08" x="123" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-15" x="135" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-22" x="147" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-29" x="159" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-05" x="171" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-12" x="183" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-19" x="195" y="68" width="10" height="10"/><rect id="block-207-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-02-26" x="207" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-05" x="219" y="68" width="10" height="10"/><rect id="block-231-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-12" x="231" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-19" x="243" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-26" x="255" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-02" x="267" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-09" x="279" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-16" x="291" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-23" x="303" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-30" x="315" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-07" x="327" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-14" x="339" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-21" x="351" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-28" x="363" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-04" x="375" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-11" x="387" y="68" width="10" height="10"/><rect id="block-399-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-06-18" x="399" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-25" x="411" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-02" x="423" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-09" x="435" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-16" x="447" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-23" x="459" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-30" x="471" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-06" x="483" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-13" x="495" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-20" x="507" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-27" x="519" y="68" width="10" height="10"/><rect id="block-531-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-09-03" x="531" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-10" x="543" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-17" x="555" y="68" width="10" height="10"/><rect id="block-567-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-09-24" x="567" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-01" x="579" y="68" width="10" height="10"/><rect id="block-591-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-10-08" x="591" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-15" x="603" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-22" x="615" y="68" width="10" height="10"/><rect id="block-627-68" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-10-29" x="627" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-05" x="639" y="68" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-14" x="27" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-21" x="39" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-28" x="51" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-05" x="63" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-12" x="75" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-19" x="87" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-26" x="99" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-02" x="111" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-09" x="123" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-16" x="135" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-23" x="147" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-30" x="159" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-06" x="171" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-13" x="183" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-20" x="195" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-27" x="207" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-06" x="219" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-13" x="231" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-20" x="243" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-27" x="255" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-03" x="267" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-10" x="279" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-17" x="291" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-24" x="303" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-01" x="315" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-08" x="327" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-15" x="339" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-22" x="351" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-29" x="363" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-05" x="375" y="80" width="10" height="10"/><rect id="block-387-80" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-06-12" x="387" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-19" x="399" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-26" x="411" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-03" x="423" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-10" x="435" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-17" x="447" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-24" x="459" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-31" x="471" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-07" x="483" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-14" x="495" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-21" x="507" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-28" x="519" y="80" width="10" height="10"/><rect id="block-531-80" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-09-04" x="531" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-11" x="543" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-18" x="555" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-25" x="567" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-02" x="579" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-09" x="591" y="80" width="10" height="10"/><rect id="block-603-80" style="fill:#39d353;shape-rendering:crispedges;" data-score="2" data-date="2026-10-16" x="603" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-23" x="615" y="80" width="10" height="10"/><rect id="block-627-80" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-10-30" x="627" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-06" x="639" y="80" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-15" x="27" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-22" x="39" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-11-29" x="51" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-06" x="63" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-13" x="75" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-20" x="87" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2025-12-27" x="99" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-03" x="111" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-10" x="123" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-17" x="135" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-24" x="147" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-01-31" x="159" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-07" x="171" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-14" x="183" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-21" x="195" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-02-28" x="207" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-07" x="219" y="92" width="10" height="10"/><rect id="block-231-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-14" x="231" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-03-21" x="243" y="92" width="10" height="10"/><rect id="block-255-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-03-28" x="255" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-04" x="267" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-11" x="279" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-18" x="291" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-04-25" x="303" y="92" width="10" height="10"/><rect id="block-315-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-05-02" x="315" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-09" x="327" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-16" x="339" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-23" x="351" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-05-30" x="363" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-06" x="375" y="92" width="10" height="10"/><rect id="block-387-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-13" x="387" y="92" width="10" height="10"/><rect id="block-399-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-06-20" x="399" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-06-27" x="411" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-04" x="423" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-11" x="435" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-18" x="447" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-07-25" x="459" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-01" x="471" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-08" x="483" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-15" x="495" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-08-22" x="507" y="92" width="10" height="10"/><rect id="block-519-92" style="fill:#39d353;shape-rendering:crispedges;" data-score="1" data-date="2026-08-29" x="519" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-05" x="531" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-12" x="543" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-19" x="555" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-09-26" x="567" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-03" x="579" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-10" x="591" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-17" x="603" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-24" x="615" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-10-31" x="627" y="92" width="10" height="10"/><rect style="fill:#161B22;shape-rendering:crispedges;" data-score="0" data-date="2026-11-07" x="639" y="92" width="10" height="10"/><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="28">Sun</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="40">Mon</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="52">Tue</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="64">Wed</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="77">Thu</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="89">Fri</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="101">Sat</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="27" y="10">Nov</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="75" y="10">Dec</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="123" y="10">Jan</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="171" y="10">Feb</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="219" y="10">Mar</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="279" y="10">Apr</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="327" y="10">May</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="387" y="10">Jun</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="435" y="10">Jul</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="483" y="10">Aug</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="543" y="10">Sep</text><text style="fill:#8B949E;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="591" y="10">Oct</text>
         
         <g class="miner-char">
             <!-- Steve Back Arm & Leg -->
